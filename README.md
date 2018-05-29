@@ -1,9 +1,9 @@
 This is a python code  to visualize the weather of 500+ cities, across the world of varying distance from the equator. The objective is to build a series of scatter plots to showcase the following relationships:
 
-•	Temperature (F) vs. Latitude
-•	Humidity (%) vs. Latitude
-•	Cloudiness (%) vs. Latitude
-•	Wind Speed (mph) vs. Latitude
+        •	Temperature (F) vs. Latitude
+        •	Humidity (%) vs. Latitude
+        •	Cloudiness (%) vs. Latitude
+        •	Wind Speed (mph) vs. Latitude
 
 Final results will be as below:
 
